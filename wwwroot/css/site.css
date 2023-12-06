@@ -1,0 +1,88 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #FDFBEF;
+    align-items: center;
+    justify-content: center;
+    color: black !important;
+}
+    body a {
+        color: #F68712 !important;
+    }
+
+    body table {
+        color: black !important;
+    }
+
+/*caixa*/
+.col-md-4 {
+    background-color: #FBC108;
+    border-radius: 10px;
+    padding: 2rem 2rem;
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+.Botao {
+    background-color: #F68712;
+    color: white;
+    border: none;
+    width: 435px;
+    margin-top: 7px;
+}
+
+.Botaosegundo {
+    background-color: #F68712;
+    color: white;
+    border: none;
+    margin-top: 7px;
+}
+
+img {
+    /***/
+}
+.Logo {
+    width: 50px;
+
+}
+.Tabela{
+    /**/
+    
+}
+.fotoSuco {
+    text-align:center;
+}
+
+.Menu {
+    background-color: #FFEDB5;
+    color: white;
+}
+.table {
+    background-color: #FFF5D6;
+    border-radius: 7px;
+    padding: 2rem 2rem;
+}
+
+.nav-item {
+   /* background-color: #F8E094;*/
+    margin-left: 20px;
+    border-radius: 7px;
+}
+.nav-link{
+    color: blue;
+}

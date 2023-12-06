@@ -1,0 +1,45 @@
+﻿html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #FDFBEF;
+    align-items: center;
+    justify-content: center;
+}
+/*caixa*/
+.col-md-4 {
+    background-color: #FBC108;
+    border-radius: 10px;
+    padding: 2rem 2rem;
+    width: 450px;
+    margin: 0 auto;
+}
+input {
+    border: none;
+    width: 430px;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 7px;
+    height: 40px;
+}
+
+.Botao {
+    background-color: #F68712;
+    color: white;
+    border: none;
+    width: 430px;
+    text-align: center;
+}
